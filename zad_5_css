@@ -1,4 +1,4 @@
 p {
-    color: teal;
+    color: light green;
     font-size: 86px;
 }
