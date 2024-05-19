@@ -1,0 +1,18 @@
+/* Styl dla wszystkich akapitów */
+p {
+    color: red;
+    font-size: 22pt;
+}
+
+/* Styl dla akapitu z ID beztłuszczowy */
+#beztłuszczowy_Borodzicz {
+    color: green;
+    font-size: 17pt;
+    font-weight: bold;
+}
+/* Styl dla identyfikatora uniwersalnego */
+#dlawszyskich_Borodzdicz {
+    color: yellow;
+    font-size: 10pt;
+    font-family: Arial;
+}
