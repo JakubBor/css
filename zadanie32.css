@@ -1,20 +1,41 @@
 <!DOCTYPE html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Zadanie 32</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>5. Podaj definicję modelu pudełkowego.</h1>
+    <p>Model pudełkowy opisuje sposób, w jaki przeglądarka internetowa oblicza szerokość, wysokość i otaczające elementy HTML, w tym marginesy, obramowania, wypełnienie (padding
 
 
 
