@@ -1,0 +1,13 @@
+/* Komentarz: Jakub Borodzicz 3G, gr 1 */
+h3 {
+    width: 400pt;
+    height: 4cm;
+    margin: 15px auto;
+    border-top: 4px solid #000000;
+    border-bottom: 4px solid #FF0000;
+    border-left: 4px solid #C0C0C0;
+    border-right: 4px solid #808080;
+    background: rgb(255, 204, 153); /* Odcień pomarańczowego */
+    font-size: 14px;
+    text-align: center;
+}
