@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zadanie 34</title>
+    <style>
+        /* Styl wewnętrzny dla H1 i H2 */
+        h1 {
+            width: 300pt;
+            height: 3cm;
+            margin: 10px auto;
+            border-top: 9px dashed #00FF00;
+            border-bottom: 11px dashed #FFFF00;
+            border-left: 15px dashed #00FFFF;
+            border-right: 13px dashed #0000FF;
+            background: rgb(255, 153, 51); /* Odcień pomarańczowego */
+            font-size: 18px;
+            text-align: center;
+        }
+
+        h2 {
+            width: 250pt;
+            height: 2.5cm;
+            margin: 20px auto;
+            border: 4px groove #800000;
+            background: rgb(204, 102, 0); /* Odcień pomarańczowego */
+            font-size: 16px;
+            text-align: center;
+        }
+    </style>
+    <link rel="stylesheet" href="zadanie34_cztery_pierwsze_litery.css">
+</head>
+<body>
+    <!-- H1: Imię i parametry -->
+    <h1>Nazwisko - width: 300pt; height: 3cm; ...</h1>
+
+    <!-- H2: Imię i parametry -->
+    <h2>Imię - width: 250pt; height: 2.5cm; ...</h2>
+
+    <!-- H3: Numer w dzienniku i parametry -->
+    <h3>Numer dziennika - width: 400pt; height: 4cm; ...</h3>
+
+</body>
+</html>
+
+h3 {
+    width: 400pt;
+    height: 4cm;
+    margin: 15px auto;
+    border-top: 4px solid #000000;
+    border-bottom: 4px solid #FF0000;
+    border-left: 4px solid #C0C0C0;
+    border-right: 4px solid #808080;
+    background: rgb(255, 204, 153); /* Odcień pomarańczowego */
+    font-size: 14px;
+    text-align: center;
+}
+
+</body>
+</html>
